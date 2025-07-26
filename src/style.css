@@ -1,0 +1,27 @@
+.block {
+    margin: auto;
+    width: 100%;
+    max-width: 1000px;
+    padding-block: 120px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+
+.block__choice {
+    display: flex;
+    column-gap: 10px;
+}
+
+.block___checkbox {
+    display: flex;
+    flex-direction: row;
+}
+
+.block__input {
+    width: 100%;
+}
+
+.input {
+    width: 30%;
+}
